@@ -1,0 +1,11 @@
+{
+  "name": "tailwind_app",
+  "version": "1.0.0",
+  "main": "tailwind.config.js",
+  "scripts": {
+    "tailwindDev": "npx tailwindcss -i ./src/input.css -o ./build/css/styles.css --watch"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
